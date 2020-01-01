@@ -21,19 +21,19 @@ Work experience
   * Institute of Neuroscience at Chinese Academy of Science
   * Duties included: visual short memory; auditory novalty；train macaque to do sequential working memory task
   
-  Skills
-  ======
+Skills
+======
 
 
-  Publications
-#  ======
+Publications
+======
 
-  Talks
-#  ======
+Talks
+======
 
   
-  Teaching
-#  ======
+Teaching
+======
 
   
 
